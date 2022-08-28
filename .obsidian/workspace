@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Level1a2.md",
+            "file": "Level9a10.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 100
   },
   "right": {
     "id": "951036cc065b42fc",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level1a2.md",
+                "file": "Level9a10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level1a2.md",
+                "file": "Level9a10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level1a2.md"
+                "file": "Level9a10.md"
               }
             }
           }
@@ -130,9 +130,15 @@
   },
   "active": "4cf6cc8164ae2093",
   "lastOpenFiles": [
-    "Level0a1.md",
-    "Level1a2.md",
-    "Level0.md",
-    "retos-bandit/bandit.md"
+    "Level8a9.md",
+    "Level9a10.md",
+    "Bandit.md",
+    "Level7a8.md",
+    "Level6a7.md",
+    "Level5a6.md",
+    "Level4a5.md",
+    "Level3a4.md",
+    "Level2a3.md",
+    "Level1a2.md"
   ]
 }
