@@ -4,14 +4,14 @@ The password for the next level is stored in a file called **-** located in th
 
 ## Datos de acceso
 user: bandit1
-password:boJ9jbbUNNfktd78OOpsqOltutMc3
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
 ## Solucion
 ```
 bandit1@bandit:~$ cat .\-
 cat: .-: No such file or directory
 bandit1@bandit:~$ cat ./-
-CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 bandit1@bandit:~$
 ```
 

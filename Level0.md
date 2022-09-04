@@ -7,7 +7,7 @@ user: bandit0
 password:bandit0
 
 ## Solucion
-```
+```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 ```

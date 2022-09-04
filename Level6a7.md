@@ -9,13 +9,12 @@ The password for the next level is stored **somewhere on the server** and has 
 
 ## Datos de acceso
 bandit6
-DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 ## Solucion
 ```
 bandit6@bandit:~$ find -user bandit7 -group bandit6 -size 33c
-bandit6@bandit:~$ find / -readable -user bandit7 -group band
-it6 -size 33c
+bandit6@bandit:~$ find / -readable -user bandit7 -group bandit6 -size 33c
 find: ‘/root’: Permission denied
 find: ‘/home/bandit28-git’: Permission denied
 find: ‘/home/bandit30-git’: Permission denied
@@ -75,7 +74,7 @@ find: ‘/var/log’: Permission denied
 find: ‘/var/cache/apt/archives/partial’: Permission denied
 find: ‘/var/cache/ldconfig’: Permission denied
 bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
-HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 bandit6@bandit:~$
 
 ```
