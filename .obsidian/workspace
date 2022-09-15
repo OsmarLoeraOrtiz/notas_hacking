@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Level27a28.md",
+            "file": "Level32a33.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level27a28.md",
+                "file": "Level32a33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level27a28.md",
+                "file": "Level32a33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level27a28.md"
+                "file": "Level32a33.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "c703ce03951cf697",
   "lastOpenFiles": [
+    "Level31a32.md",
+    "Level32a33.md",
+    "Pasted image 20220829201932.png",
     "Bandit.md",
+    "Level30a31.md",
     "Level0.md",
-    "Level26a27.md",
-    "Level25a26.md",
-    "Level17a18.md",
-    "Level16a17.md",
-    "Level23a24.md",
-    "Level24a25.md",
-    "Level22a23.md",
-    "Level21a22.md"
+    "Level29a30.md",
+    "Level28a29.md",
+    "Level27a28.md",
+    "Level26a27.md"
   ]
 }
