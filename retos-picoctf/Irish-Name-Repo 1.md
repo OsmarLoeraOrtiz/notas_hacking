@@ -1,9 +1,6 @@
-# Bandit Level
+# Irish-Name-Repo 1
 
 ## Objetivo
-
-
-## Datos de acceso
 
 
 ## Solucion

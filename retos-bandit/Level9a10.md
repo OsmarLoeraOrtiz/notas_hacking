@@ -8,9 +8,9 @@ bandit9
 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 
 ## Solucion
-```
+```bash
 bandit9@bandit:~$ cat data.txt | strings | grep ==
-========== the*2i"4
+========== the*2i4
 ========== password
 Z)========== is
 &========== G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
