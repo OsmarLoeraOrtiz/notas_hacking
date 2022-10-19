@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "0b565175d17473e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ce1c0a06d93dc36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c43d5243c7bace6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eden mine/eden mine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d8f60fcf29fb393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sniffer Man/Sniffer Man.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54fd454e47a1a4a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Caxcan club/Caxcan club.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c100ed549806aa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb6df895c852dee1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b35ecd21c8e84ff9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e95d2976f8d9ef7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "09019c5a8161fd84",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "800a2d6ced6b6154",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bbb88c9f802c221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3af5b0f730378449",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Caxcan club/Caxcan club.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df82b14854443c32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Caxcan club/Caxcan club.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d72655de510f9f3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b134259bb5c7455",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Caxcan club/Caxcan club.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "b35ecd21c8e84ff9",
+  "lastOpenFiles": [
+    "Plantilla.md",
+    "Caxcan club/Caxcan club.md",
+    "Sniffer Man/Sniffer Man.md",
+    "La enchilada/La enchilada.md",
+    "eden mine/eden mine.md",
+    "Delicious Mexican food/Delicious Mexican food.md",
+    "bufa secret/bufa secret.md",
+    "Quemada broadcast/Quemada broadcast.md",
+    "Maria's Art Class/Maria's Art Class.md",
+    "Pablito Visits Hubikù/Pablito Visits Hubikù.md"
+  ]
+}
