@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos-picoctf/Web Exploitation/Tarea 5 - Retos Web PicoCTF - Ejercicios de Tarea/SQLiLite.md",
+                "file": "retos-picoctf/Forensic/Tarea 6 - Retos Forensic PicoCTF/St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-picoctf/Web Exploitation/Tarea 5 - Retos Web PicoCTF - Ejercicios de Tarea/SQLiLite.md",
+                "file": "retos-picoctf/Forensic/Tarea 6 - Retos Forensic PicoCTF/St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-picoctf/Web Exploitation/Tarea 5 - Retos Web PicoCTF - Ejercicios de Tarea/SQLiLite.md",
+                "file": "retos-picoctf/Forensic/Tarea 6 - Retos Forensic PicoCTF/St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-picoctf/Web Exploitation/Tarea 5 - Retos Web PicoCTF - Ejercicios de Tarea/SQLiLite.md"
+                "file": "retos-picoctf/Forensic/Tarea 6 - Retos Forensic PicoCTF/St3g0.md"
               }
             }
           }
@@ -141,15 +141,15 @@
   },
   "active": "89bfaf8121439a02",
   "lastOpenFiles": [
-    "retos-picoctf/Web Exploitation/Tarea 5 - Retos Web PicoCTF - Ejercicios de Tarea/SQL Direct.md",
-    "retos-picoctf/Web Exploitation/Tarea 5 - Retos Web PicoCTF - Ejercicios de Tarea/Secrets.md",
-    "retos-picoctf/Forensic/Forensic picoCTF 2021,2022_Parte 3/MacroHard WeakEdge.md",
-    "retos-picoctf/Forensic/Forensic picoCTF 2021,2022_Parte 3/Matryoshka doll.md",
-    "retos-picoctf/Forensic/Forensic picoCTF 2021,2022_Parte 3/Operation Oni.md",
-    "retos-picoctf/Forensic/Forensic picoCTF 2021,2022_Parte 3/Sleuthkit Intro.md",
-    "retos-picoctf/Forensic/Forensic picoCTF 2021,2022_Parte 3/Trivial Flag Transfer Protocol.md",
-    "retos-picoctf/Forensic/Forensic picoCTF 2021,2022_Parte 3/tunn3l_v1s10n.md",
-    "retos-picoctf/Forensic/Forensic picoCTF 2021,2022_Parte 3/Wireshark twoo twooo two twoo.md",
-    "retos-picoctf/Forensic/Tarea 6 - Retos Forensic PicoCTF/picoctf 1.md"
+    "retos-picoctf/Forensic/Tarea 6 - Retos Forensic PicoCTF/Wireshark doo dooo do doo....md",
+    "retos-picoctf/Forensic/Tarea 6 - Retos Forensic PicoCTF/Redaction gone wrong.md",
+    "retos-picoctf/Forensic/Tarea 6 - Retos Forensic PicoCTF/Packets Primer.md",
+    "retos-picoctf/Forensic/Tarea 6 - Retos Forensic PicoCTF/Lookey here.md",
+    "retos-picoctf/Forensic/Tarea 6 - Retos Forensic PicoCTF/Enhance!.md",
+    "retos-picoctf/Forensic/Tarea 6 - Retos Forensic PicoCTF/information.md",
+    "retos-picoctf/Forensic/Forensic picoCTF 2019_Parte 2/WebNet0.md",
+    "retos-picoctf/Forensic/Forensic picoCTF 2019_Parte 2/shark on wire 2.md",
+    "retos-picoctf/Forensic/Forensic picoCTF 2019_Parte 2/like1000.md",
+    "retos-picoctf/Forensic/Forensic picoCTF 2019_Parte 2/c0rrupt.md"
   ]
 }
