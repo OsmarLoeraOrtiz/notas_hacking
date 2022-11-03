@@ -7,7 +7,7 @@ Lo pasamos por cyberchef y le aplicamos Rail Fence Cipher Decode, con una llave 
 The flag is: WH3R3_D035_7H3_F3NC3_8361N_4ND_3ND_4A76B997
 
 ```
-
+picoCTF{WH3R3_D035_7H3_F3NC3_8361N_4ND_3ND_4A76B997}
 ## Notas adicionales
-![[Pasted image 20221030201229.png]]
+
 ## Referencias
