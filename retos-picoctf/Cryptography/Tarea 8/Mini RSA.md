@@ -3,6 +3,19 @@ What happens if you have a small exponent? There is a twist though, we padded th
 
 ## Solucion
 ```bash
+>>> for i in range(10000):
+...     m, is_true_root = gmpy2.iroot(i*n + c, e)
+...     if is_true_root:
+...         print(f"Found i = {i}")
+...         print("Message: {}".format(bytearray.fromhex(format(m, 'x')).decode()))
+...         break
+... 
+┌──(kali㉿kali)-[~/Downloads]
+└─$ python3 exp1.py
+Found i = 3533
+Message:                                                                                                         picoCTF{e_sh0u1d_b3_lArg3r_aef7377d}
+
+>>> 
 
 ```
 
